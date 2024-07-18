@@ -6,7 +6,7 @@ Este é um sistema simples de parcelamento de contratos, desenvolvido em Java, q
 
 - Calcula parcelas de contratos com base em um número de meses especificado.
 - Utiliza um serviço de pagamento online para calcular taxas de pagamento e juros.
-- Fornece implementações de serviço de pagamento para PayPal.
+- Fornece implementações de serviço de pagamento.
 
 ## 📋 Requisitos
 
